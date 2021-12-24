@@ -1,7 +1,7 @@
-# CryptoOnTime
+# AngularViaCep
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Pereira-Araujo/users-api/blob/main/LICENSE.md)
 
-:construction: Program for study withi public API  :stuck_out_tongue:	
+:heavy_check_mark: Program for study withi public API  :stuck_out_tongue:	
 
   
       
@@ -17,7 +17,7 @@ Learn more about APIs
 
 ### what i used
 - [Angular Material](https://material.angular.io/) 
--
+- [https://viacep.com.br/](https://material.angular.io/)
 
 
 ### Instruções para rodar
