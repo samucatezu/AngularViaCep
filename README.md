@@ -1,7 +1,7 @@
 # AngularViaCep
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Pereira-Araujo/users-api/blob/main/LICENSE.md)
 
-:heavy_check_mark: Program for study withi public API  :stuck_out_tongue:	
+:heavy_check_mark: Program that consume ViaCep APi for study and work purpose	
 
   
       
